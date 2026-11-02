@@ -41,7 +41,7 @@ Follow these steps to load and test the extension locally in Google Chrome:
 * Open Google Chrome and navigate to `chrome://extensions/`.
 * Enable Developer mode by toggling the switch in the top-right corner.
 * Click the Load unpacked button in the top-left corner.
-* Select the Chrome Extension folder containing your project files.
+* Select the `Chrome Extension` folder containing your project files.
 * The Leads Tracker extension icon will now appear in your Chrome toolbar!
  
 ---
