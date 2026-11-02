@@ -37,21 +37,21 @@ Chrome Extension/
 
 ## ⚙️ Installation & Setup
 Follow these steps to load and test the extension locally in Google Chrome:
-* 1. Clone or Download this repository to your local machine.
-* 2. Open Google Chrome and navigate to chrome://extensions/.
-* 3. Enable Developer mode by toggling the switch in the top-right corner.
-* 4. Click the Load unpacked button in the top-left corner.
-* 5. Select the Chrome Extension folder containing your project files.
-* 6. The Leads Tracker extension icon will now appear in your Chrome toolbar!
+* Clone or Download this repository to your local machine.
+* Open Google Chrome and navigate to chrome://extensions/.
+* Enable Developer mode by toggling the switch in the top-right corner.
+* Click the Load unpacked button in the top-left corner.
+* Select the Chrome Extension folder containing your project files.
+* The Leads Tracker extension icon will now appear in your Chrome toolbar!
  
 ---
 
 ## 💡 Usage
-* 1. Click on the Leads Tracker icon in your Chrome toolbar to open the extension popup.
-* 2. To save custom text/URLs: Type into the input box and click Save Input.
-* 3. To save your current tab: Click Save Tab to instantly record the current page's URL.
-* 4. To access links: Click on any saved item in the list to open it in a new tab.
-* 5. To clear data: Click Delete All to wipe all saved leads from local storage.
+* Click on the Leads Tracker icon in your Chrome toolbar to open the extension popup.
+* To save custom text/URLs: Type into the input box and click Save Input.
+* To save your current tab: Click Save Tab to instantly record the current page's URL.
+* To access links: Click on any saved item in the list to open it in a new tab.
+* To clear data: Click Delete All to wipe all saved leads from local storage.
 
  ---
 
