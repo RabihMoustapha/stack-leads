@@ -38,7 +38,7 @@ Chrome Extension/
 ## ⚙️ Installation & Setup
 Follow these steps to load and test the extension locally in Google Chrome:
 * Clone or Download this repository to your local machine.
-* Open Google Chrome and navigate to chrome://extensions/.
+* Open Google Chrome and navigate to ** chrome://extensions/ **.
 * Enable Developer mode by toggling the switch in the top-right corner.
 * Click the Load unpacked button in the top-left corner.
 * Select the Chrome Extension folder containing your project files.
